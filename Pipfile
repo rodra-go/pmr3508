@@ -12,6 +12,7 @@ scipy = "*"
 matplotlib = "*"
 seaborn = "*"
 numpy = "*"
+tensorflow-gpu = "*"
 
 [dev-packages]
 
